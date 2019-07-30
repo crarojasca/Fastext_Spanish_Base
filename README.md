@@ -1,0 +1,1 @@
+Fastext_Spanish_Base
